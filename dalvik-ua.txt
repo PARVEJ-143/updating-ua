@@ -1,0 +1,80 @@
+Davik/2.1.0 (Linux; U; Android 10.0.1; SM-J510FN Build/QP1A.190711.020) [FBAN/FB4A;FBAV/776.0.0.38.220;FBBV/713113567;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J510FN;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 11.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/995.0.0.59.224;FBBV/579748863;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 12.0.1; JZO54K Build/QP1A.190711.020) [FBAN/FB4A;FBAV/797.0.0.24.997;FBBV/300061546;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/JZO54K;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 11.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/134.0.0.13.898;FBBV/309144052;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; LMY47V Build/QP1A.190711.020) [FBAN/FB4A;FBAV/163.0.0.74.723;FBBV/272684016;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/LMY47V;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; GT-N7100 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/443.0.0.67.912;FBBV/950751930;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-N7100;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; SM-J320FN Build/QP1A.190711.020) [FBAN/FB4A;FBAV/346.0.0.56.181;FBBV/515387923;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J320FN;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 7.0.1; JZO54K Build/QP1A.190711.020) [FBAN/FB4A;FBAV/468.0.0.26.346;FBBV/197523474;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/JZO54K;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 12.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/578.0.0.39.404;FBBV/253198530;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; JZO54K Build/QP1A.190711.020) [FBAN/FB4A;FBAV/248.0.0.63.495;FBBV/939736376;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/JZO54K;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; KTU84P Build/QP1A.190711.020) [FBAN/FB4A;FBAV/951.0.0.22.221;FBBV/615126850;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KTU84P;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/862.0.0.24.972;FBBV/635585222;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 10.0.1; SM-T561 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/157.0.0.85.473;FBBV/694512654;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T561;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/277.0.0.76.535;FBBV/685336723;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; SM-G920F Build/QP1A.190711.020) [FBAN/FB4A;FBAV/304.0.0.90.401;FBBV/915189928;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G920F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 8.0.1; GT-N8000 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/802.0.0.92.768;FBBV/507287312;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-N8000;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 12.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/209.0.0.98.625;FBBV/693296663;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/185.0.0.63.282;FBBV/768004174;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 10.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/265.0.0.91.918;FBBV/785619880;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 6.0.1; MMB29M Build/QP1A.190711.020) [FBAN/FB4A;FBAV/636.0.0.26.532;FBBV/443146744;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/MMB29M;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 7.0.1; JZO54K Build/QP1A.190711.020) [FBAN/FB4A;FBAV/610.0.0.32.656;FBBV/946141810;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/JZO54K;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 11.0.1; SM-A500F Build/QP1A.190711.020) [FBAN/FB4A;FBAV/325.0.0.84.871;FBBV/896609453;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A500F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; SM-J320F Build/QP1A.190711.020) [FBAN/FB4A;FBAV/858.0.0.33.244;FBBV/314822548;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J320F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 8.0.1; JDQ39 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/877.0.0.40.767;FBBV/286280557;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/JDQ39;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; SM-G930F Build/QP1A.190711.020) [FBAN/FB4A;FBAV/297.0.0.72.756;FBBV/751242929;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; LMY47V Build/QP1A.190711.020) [FBAN/FB4A;FBAV/513.0.0.72.554;FBBV/287837547;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/LMY47V;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 6.0.1; LRX22G Build/QP1A.190711.020) [FBAN/FB4A;FBAV/996.0.0.63.703;FBBV/950289115;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/LRX22G;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 7.0.1; KTU84P Build/QP1A.190711.020) [FBAN/FB4A;FBAV/765.0.0.69.351;FBBV/533690237;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KTU84P;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 8.0.1; SM-A500F Build/QP1A.190711.020) [FBAN/FB4A;FBAV/742.0.0.51.540;FBBV/823138737;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A500F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 11.0.1; SM-J510FN Build/QP1A.190711.020) [FBAN/FB4A;FBAV/228.0.0.53.704;FBBV/425649806;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J510FN;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 11.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/379.0.0.52.613;FBBV/188539289;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 14.0.1; SM-T561 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/550.0.0.49.568;FBBV/611938325;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T561;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 11.0.1; KOT49H Build/QP1A.190711.020) [FBAN/FB4A;FBAV/314.0.0.69.562;FBBV/777226112;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/KOT49H;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 13.0.1; GT-I9192 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/183.0.0.88.263;FBBV/180025043;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9192;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 5.0.1; GT-I9192 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/142.0.0.38.379;FBBV/493443964;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9192;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; SM-J510FN Build/QP1A.190711.020) [FBAN/FB4A;FBAV/164.0.0.20.528;FBBV/835462238;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J510FN;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 10.0.1; GT-N7100 Build/QP1A.190711.020) [FBAN/FB4A;FBAV/577.0.0.20.807;FBBV/290684232;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-N7100;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 9.0.1; MMB29M Build/QP1A.190711.020) [FBAN/FB4A;FBAV/691.0.0.93.313;FBBV/981092392;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/MMB29M;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 6.0.1; SM-A500F Build/QP1A.190711.020) [FBAN/FB4A;FBAV/969.0.0.66.913;FBBV/111505981;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A500F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
+Davik/2.1.0 (Linux; U; Android 13.0.1; LMY47V Build/QP1A.190711.020) [FBAN/FB4A;FBAV/569.0.0.97.923;FBBV/969393559;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/LMY47V;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+
